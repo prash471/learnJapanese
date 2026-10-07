@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Learn Japanese</title>
+<style>
+:root{font-family:system-ui,-apple-system,sans-serif;color:#1f2937;background:#f8fafc}
+body{max-width:1200px;margin:0 auto;padding:32px 18px}
+h1{margin-bottom:4px} .sub{color:#64748b;margin-top:0}
+.controls{display:flex;gap:10px;margin:24px 0;flex-wrap:wrap}
+input{flex:1;min-width:220px;padding:11px 13px;border:1px solid #cbd5e1;border-radius:10px;font:inherit}
+.card{background:white;border:1px solid #e2e8f0;border-radius:14px;padding:18px;margin:14px 0;box-shadow:0 1px 2px #0000000a}
+.jp{font-size:1.45rem;font-weight:700}.reading{font-size:1.05rem;margin-top:5px}.romaji{color:#64748b;margin-top:4px}
+.en{font-weight:600;margin:12px 0}.meta{display:grid;grid-template-columns:1fr 1fr;gap:12px}.label{font-size:.75rem;text-transform:uppercase;letter-spacing:.05em;color:#64748b;font-weight:700}.value{margin-top:3px;line-height:1.55}
+.explain{margin-top:14px;padding-top:14px;border-top:1px solid #e2e8f0}
+.status{color:#64748b}@media(max-width:650px){.meta{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<h1>日本語 Learning</h1>
+<p class="sub">Japanese exercises collected from ChatGPT conversations.</p>
+<div class="controls"><input id="search" placeholder="Search Japanese, romaji, English…"></div>
+<div id="status" class="status">Loading…</div><main id="list"></main>
+<script>
+function csvParse(text){
+ const rows=[]; let row=[],field="",q=false;
+ for(let i=0;i<text.length;i++){const c=text[i],n=text[i+1];
+  if(c=='"'&&q&&n=='"'){field+='"';i++}
+  else if(c=='"')q=!q;
+  else if(c==','&&!q){row.push(field);field=""}
+  else if((c=='\n'||c=='\r')&&!q){if(c=='\r'&&n=='\n')i++;row.push(field);if(row.some(x=>x.length))rows.push(row);row=[];field=""}
+  else field+=c;
+ }
+ if(field.length||row.length){row.push(field);rows.push(row)}
+ const h=rows.shift()||[]; return rows.map(r=>Object.fromEntries(h.map((x,i)=>[x,r[i]||""])));
+}
+let data=[];
+function esc(s){return (s||"").replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
+function render(q=""){
+ const term=q.toLowerCase(); const shown=data.filter(r=>Object.values(r).join(" ").toLowerCase().includes(term));
+ document.getElementById("status").textContent=shown.length+" sentence"+(shown.length===1?"":"s");
+ document.getElementById("list").innerHTML=shown.map(r=>`<article class="card">
+  <div class="jp">${esc(r.Japanese)}</div><div class="reading">${esc(r.Hiragana)}</div><div class="romaji">${esc(r.Romaji)}</div>
+  <div class="en">${esc(r.English)}</div><div class="meta">
+   <div><div class="label">Vocabulary</div><div class="value">${esc(r.Vocabulary)}</div></div>
+   <div><div class="label">Grammar</div><div class="value">${esc(r.Grammar)}</div></div>
+  </div><div class="explain"><div class="label">Explanation</div><div class="value">${esc(r.Explanation)}</div></div>
+ </article>`).join("");
+}
+fetch("japanese-learning.csv?"+Date.now()).then(r=>{if(!r.ok)throw Error(r.status);return r.text()}).then(t=>{data=csvParse(t);render()}).catch(e=>document.getElementById("status").textContent="Could not load japanese-learning.csv");
+document.getElementById("search").addEventListener("input",e=>render(e.target.value));
+</script>
+</body></html>
