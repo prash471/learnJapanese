@@ -1,132 +1,148 @@
-Date,Japanese,Hiragana,Romaji,English,Vocabulary,Grammar,Explanation
-2026-10-07,空港が大きくなります。,くうこう が おおきく なります,Kūkō ga ōkiku narimasu.,The airport will become bigger.,"空港 = airport; 大きい = big","～くなります = becomes...","空港 (airport) + が (subject marker) + 大きい→大きく (big→adverbial form) + なります (becomes). Literally: Airport + [subject] + big + becomes."
-2026-10-07,滑走路が長くなります。,かっそうろ が ながく なります,Kassōro ga nagaku narimasu.,The runway will become longer.,"滑走路 = runway; 長い = long","～くなります = becomes...","滑走路 (runway) + が + 長い→長く (long→adverbial form) + なります (becomes). Literally: Runway + [subject] + long + becomes."
-2026-10-07,大きい飛行機も着陸できます。,おおきい ひこうき も ちゃくりく できます,Ōkii hikōki mo chakuriku dekimasu.,Large airplanes can also land.,"大きい = big; 飛行機 = airplane; 着陸 = landing","～できます = can do; も = also/too","大きい飛行機 (large airplane) + も (also) + 着陸できます (can land)."
-2026-10-07,この空港はとても忙しいです。,この くうこう は とても いそがしい です,Kono kūkō wa totemo isogashii desu.,This airport is very busy.,"空港 = airport; 忙しい = busy; とても = very","は = topic marker; ～です = polite copula","この空港 (this airport) + は (topic marker) + とても (very) + 忙しいです (is busy)."
-2026-10-07,この滑走路は短いです。,この かっそうろ は みじかい です,Kono kassōro wa mijikai desu.,This runway is short.,"滑走路 = runway; 短い = short","は = topic marker","この滑走路 (this runway) + は + 短いです (is short)."
-2026-10-07,滑走路は約2800メートルです。,かっそうろ は やく にせん はっぴゃく めーとる です,Kassōro wa yaku nisen happyaku mētoru desu.,"The runway is about 2,800 metres.","滑走路 = runway; 約 = approximately; メートル = metre","約 + number = approximately...","滑走路は (as for the runway) + 約 (approximately) + 2800メートルです (is 2,800 metres)."
-2026-10-07,毎日、日本語を勉強します。,まいにち、にほんご を べんきょう します,"Mainichi, Nihongo o benkyō shimasu.",I study Japanese every day.,"毎日 = every day; 日本語 = Japanese; 勉強 = study","を = object marker; ～します = do","毎日 (every day) + 日本語を (Japanese + object marker) + 勉強します (study/do studying)."
-2026-10-07,説明も書きます。,せつめい も かきます,Setsumei mo kakimasu.,I will also write an explanation.,"説明 = explanation; 書く = write","も = also; 書きます = polite form of 書く","説明 (explanation) + も (also) + 書きます (write)."
-2026-10-07,ここに保存します。,ここ に ほぞん します,Koko ni hozon shimasu.,I'll save it here.,"ここ = here; 保存 = save","に = destination/location marker; ～します = do","ここ (here) + に (to/in) + 保存します (save)."
-2026-10-07,このリポジトリに保存します。,この りぽじとり に ほぞん します,Kono ripojitori ni hozon shimasu.,I'll save it in this repository.,"この = this; リポジトリ = repository; 保存 = save","に = destination marker","このリポジトリ (this repository) + に (in/to) + 保存します (save)."
-2026-10-07,おはようございます。,おはようございます,Ohayō gozaimasu.,Good morning.,おはよう = good morning,～ございます = polite expression,"A standard polite morning greeting. Use it with colleagues, neighbors, hotel staff, and people you meet in the morning."
-2026-10-07,こんにちは。,こんにちは,Konnichiwa.,Hello / Good afternoon.,こんにちは = hello,Fixed greeting,A standard daytime greeting. The は is written as は but pronounced wa in this greeting.
-2026-10-07,こんばんは。,こんばんは,Konbanwa.,Good evening.,こんばんは = good evening,Fixed greeting,A standard greeting used in the evening. The final は is pronounced wa.
-2026-10-07,ありがとうございます。,ありがとうございます,Arigatō gozaimasu.,Thank you very much.,ありがとう = thanks,ございます adds politeness,"The normal polite way to thank someone in shops, restaurants, work, or everyday interactions."
-2026-10-07,どうもありがとうございます。,どうも ありがとうございます,Dōmo arigatō gozaimasu.,Thank you very much indeed.,どうも = very / really; ありがとう = thanks,どうも intensifies thanks,A warmer and stronger thank-you than ありがとうございます.
-2026-10-07,すみません。,すみません,Sumimasen.,Excuse me / Sorry.,すみません = excuse me / sorry,Context-dependent expression,"Extremely useful. Use it to get attention, apologize lightly, pass someone, or even when someone helps you."
-2026-10-07,ごめんなさい。,ごめんなさい,Gomen nasai.,I'm sorry.,ごめんなさい = sorry,Polite apology,"A direct apology. With strangers and in service situations, すみません is often more natural for small inconveniences."
-2026-10-07,お願いします。,おねがいします,Onegai shimasu.,Please.,お願い = request,noun + します,"Used when asking for something or handing something over for service. Literally, I make a request."
-2026-10-07,よろしくお願いします。,よろしく おねがいします,Yoroshiku onegai shimasu.,Nice to meet you / I look forward to working with you.,よろしく = favorably / well; お願い = request,Set social expression,"A very Japanese multipurpose phrase used after introductions, requests, or when starting to work with someone."
-2026-10-07,はじめまして。,はじめまして,Hajimemashite.,Nice to meet you.,はじめまして = for the first time,Fixed introduction,"Used only when meeting someone for the first time, usually followed by your name and よろしくお願いします."
-2026-10-07,お元気ですか。,おげんき ですか,Ogenki desu ka.,How are you?,元気 = well / healthy,お + noun adds politeness; か marks question,"Literally, Are you well? More common when you have not seen someone for some time than as a daily greeting."
-2026-10-07,元気です。,げんき です,Genki desu.,I'm well.,元気 = well / energetic,noun + です,A simple polite response to お元気ですか.
-2026-10-07,大丈夫です。,だいじょうぶ です,Daijōbu desu.,It's okay / I'm fine / No thank you.,大丈夫 = okay / all right,noun + です,"Very context-dependent. It can mean I'm okay, that's fine, or politely decline an offer."
-2026-10-07,分かりました。,わかりました,Wakarimashita.,I understand / Got it.,分かる = understand,past polite form ～ました,Literally understood. Common acknowledgement when someone gives instructions or information.
-2026-10-07,分かりません。,わかりません,Wakarimasen.,I don't understand / I don't know.,分かる = understand,～ません = polite negative,Use when you do not understand something or do not know the answer.
-2026-10-07,もう一度お願いします。,もう いちど おねがいします,Mō ichido onegai shimasu.,"One more time, please.",もう一度 = once more; お願いします = please,request with お願いします,A useful way to ask someone to repeat what they said.
-2026-10-07,ゆっくり話してください。,ゆっくり はなして ください,Yukkuri hanashite kudasai.,Please speak slowly.,ゆっくり = slowly; 話す = speak,て-form + ください = please do,"話す becomes 話して, followed by ください to make a polite request."
-2026-10-07,日本語は少しだけ話せます。,にほんご は すこし だけ はなせます,Nihongo wa sukoshi dake hanasemasu.,I can speak only a little Japanese.,少し = a little; だけ = only; 話す = speak,potential form 話せます = can speak,A natural way to set expectations about your Japanese ability.
-2026-10-07,英語は話せますか。,えいご は はなせますか,Eigo wa hanasemasu ka.,Can you speak English?,英語 = English; 話す = speak,potential + か,話せます means can speak; か turns the polite statement into a question.
-2026-10-07,これは何ですか。,これは なんですか,Kore wa nan desu ka.,What is this?,これ = this; 何 = what,X は何ですか = what is X?,One of the most useful basic question patterns.
-2026-10-07,これはどういう意味ですか。,これは どういう いみ ですか,Kore wa dō iu imi desu ka.,What does this mean?,どういう = what kind of; 意味 = meaning,どういう意味 = what meaning,"Use when asking about a Japanese word, sign, sentence, or expression."
-2026-10-07,日本語で何と言いますか。,にほんご で なんと いいますか,Nihongo de nan to iimasu ka.,How do you say it in Japanese?,日本語 = Japanese; 言う = say,で = in/by means of; と = quotation marker,"Literally, What do you say [it] as in Japanese? Useful for learning vocabulary in context."
-2026-10-07,これをください。,これを ください,Kore o kudasai.,"This one, please.",これ = this; ください = please give,を marks object,Point to an item and say this when buying or ordering.
-2026-10-07,これをお願いします。,これを おねがいします,Kore o onegai shimasu.,"This one, please.",これ = this; お願いします = please,を marks requested object,Softer and very common when ordering food or requesting an item/service.
-2026-10-07,いくらですか。,いくら ですか,Ikura desu ka.,How much is it?,いくら = how much,question + ですか,Standard way to ask the price.
-2026-10-07,カードは使えますか。,かーど は つかえますか,Kādo wa tsukaemasu ka.,Can I use a card?,カード = card; 使う = use,potential 使えます = can use,Useful at shops and restaurants to ask whether cards are accepted.
-2026-10-07,現金だけですか。,げんきん だけ ですか,Genkin dake desu ka.,Is it cash only?,現金 = cash; だけ = only,noun + だけ = only,Ask this when you are unsure whether electronic or card payment is accepted.
-2026-10-07,袋をお願いします。,ふくろ を おねがいします,Fukuro o onegai shimasu.,"A bag, please.",袋 = bag,を + お願いします,Useful at convenience stores and supermarkets because shopping bags are often optional.
-2026-10-07,袋はいりません。,ふくろ は いりません,Fukuro wa irimasen.,I don't need a bag.,袋 = bag; 要る = need,要ります → 要りません = do not need,A common response at checkout when you already have a bag.
-2026-10-07,レシートをください。,れしーと を ください,Reshīto o kudasai.,Please give me the receipt.,レシート = receipt,を + ください,A direct polite request for a receipt.
-2026-10-07,これを試着してもいいですか。,これを しちゃくしても いいですか,Kore o shichaku shite mo ii desu ka.,May I try this on?,試着 = trying on clothes,て-form + もいいですか = may I?,A standard permission pattern: do X + is it okay?
-2026-10-07,別のサイズはありますか。,べつの さいず は ありますか,Betsu no saizu wa arimasu ka.,Do you have another size?,別 = different; サイズ = size,ありますか = is there / do you have,Use in clothing or shoe shops to ask for another size.
-2026-10-07,もう少し大きいサイズはありますか。,もう すこし おおきい さいず は ありますか,Mō sukoshi ōkii saizu wa arimasu ka.,Do you have a slightly larger size?,もう少し = a little more; 大きい = large,ありますか = do you have,もう少し modifies 大きい to mean a little larger.
-2026-10-07,もう少し小さいサイズはありますか。,もう すこし ちいさい さいず は ありますか,Mō sukoshi chiisai saizu wa arimasu ka.,Do you have a slightly smaller size?,小さい = small; サイズ = size,ありますか = do you have,The counterpart to asking for a larger size.
-2026-10-07,見ているだけです。,みている だけ です,Mite iru dake desu.,I'm just looking.,見る = look; だけ = only,ている = ongoing action,Useful when shop staff approach and you do not need assistance yet.
-2026-10-07,免税できますか。,めんぜい できますか,Menzei dekimasu ka.,Can I get tax-free shopping?,免税 = tax exemption,できますか = can it be done?,Useful at stores offering tax-free purchases to eligible visitors.
-2026-10-07,予約しています。,よやく しています,Yoyaku shite imasu.,I have a reservation.,予約 = reservation,～しています = have done / state,"At a restaurant or hotel, this naturally communicates that you already have a booking."
-2026-10-07,二人です。,ふたり です,Futari desu.,Two people.,二人 = two people,counter for people,A natural short response when restaurant staff ask how many people are in your party.
-2026-10-07,一人です。,ひとり です,Hitori desu.,One person.,一人 = one person,special people counter,Useful when entering a restaurant alone.
-2026-10-07,メニューをお願いします。,めにゅー を おねがいします,Menyū o onegai shimasu.,"The menu, please.",メニュー = menu,を + お願いします,A polite request for a menu.
-2026-10-07,英語のメニューはありますか。,えいご の めにゅー は ありますか,Eigo no menyū wa arimasu ka.,Do you have an English menu?,英語 = English; メニュー = menu,N の N = noun modifying noun,英語のメニュー literally means English-language menu.
-2026-10-07,おすすめは何ですか。,おすすめ は なんですか,Osusume wa nan desu ka.,What do you recommend?,おすすめ = recommendation; 何 = what,X は何ですか,A very useful restaurant and shopping question.
-2026-10-07,これにします。,これに します,Kore ni shimasu.,I'll have this / I'll choose this.,これ = this,N にします = decide on N,A natural phrase for making your final choice from a menu or options.
-2026-10-07,水をお願いします。,みず を おねがいします,Mizu o onegai shimasu.,"Water, please.",水 = water,を + お願いします,A polite way to request water.
-2026-10-07,お会計をお願いします。,おかいけい を おねがいします,Okaikei o onegai shimasu.,"The bill, please.",お会計 = bill / checkout,お + noun adds politeness,Use when you are ready to pay at a restaurant.
-2026-10-07,別々に払えますか。,べつべつ に はらえますか,Betsubetsu ni haraemasu ka.,Can we pay separately?,別々 = separately; 払う = pay,potential 払えます = can pay,Useful when asking whether a restaurant can split the bill.
-2026-10-07,一緒に払います。,いっしょ に はらいます,Issho ni haraimasu.,We'll pay together.,一緒に = together; 払う = pay,に makes 一緒 adverbial,Useful at checkout when staff ask whether payment is together or separate.
-2026-10-07,辛くしないでください。,からく しないで ください,Karaku shinaide kudasai.,Please don't make it spicy.,辛い = spicy,～ないでください = please don't,辛い changes to 辛く before する; しないでください means please do not make/do.
-2026-10-07,肉は入っていますか。,にく は はいっていますか,Niku wa haitte imasu ka.,Does it contain meat?,肉 = meat; 入る = enter / be included,～ています = resulting state,"Literally, Is meat in it? Useful for checking ingredients."
-2026-10-07,これは生ですか。,これは なま ですか,Kore wa nama desu ka.,Is this raw?,生 = raw / uncooked,noun + ですか,"Useful when checking whether fish, egg, or meat is uncooked."
-2026-10-07,よく焼いてください。,よく やいて ください,Yoku yaite kudasai.,Please cook it well.,よく = thoroughly; 焼く = grill/cook,て-form + ください,焼く becomes 焼いて. Useful when requesting food to be well cooked.
-2026-10-07,おいしいです。,おいしい です,Oishii desu.,It's delicious.,おいしい = delicious,い-adjective + です,A simple polite compliment about food.
-2026-10-07,ごちそうさまでした。,ごちそうさま でした,Gochisōsama deshita.,Thank you for the meal.,ごちそうさま = thanks for the meal,でした = polite past copula,"Commonly said after finishing a meal, including when leaving a restaurant."
-2026-10-07,駅はどこですか。,えき は どこ ですか,Eki wa doko desu ka.,Where is the station?,駅 = station; どこ = where,X はどこですか = where is X?,A fundamental location question pattern.
-2026-10-07,トイレはどこですか。,といれ は どこ ですか,Toire wa doko desu ka.,Where is the toilet?,トイレ = toilet; どこ = where,X はどこですか,One of the most practical phrases to memorize.
-2026-10-07,ここから遠いですか。,ここから とおい ですか,Koko kara tōi desu ka.,Is it far from here?,ここ = here; から = from; 遠い = far,N から = from N,Use when checking the distance to a destination.
-2026-10-07,歩いて行けますか。,あるいて いけますか,Aruite ikemasu ka.,Can I walk there?,歩く = walk; 行く = go,て-form + potential 行けます,"Literally, can [I] go by walking?"
-2026-10-07,どうやって行きますか。,どうやって いきますか,Dō yatte ikimasu ka.,How do I get there?,どうやって = how; 行く = go,どうやって asks method,Useful when asking which transport or route to take.
-2026-10-07,この電車は東京駅に行きますか。,この でんしゃ は とうきょうえき に いきますか,Kono densha wa Tōkyō-eki ni ikimasu ka.,Does this train go to Tokyo Station?,電車 = train; 駅 = station; 行く = go,に marks destination,Replace 東京駅 with any station or destination.
-2026-10-07,次の電車は何時ですか。,つぎの でんしゃ は なんじ ですか,Tsugi no densha wa nanji desu ka.,What time is the next train?,次 = next; 電車 = train; 何時 = what time,の links nouns,A straightforward way to ask departure time.
-2026-10-07,何番線ですか。,なんばんせん ですか,Nanbansen desu ka.,Which platform is it?,何番線 = which track/platform,何番 = what number,"At Japanese stations, 番線 refers to numbered railway tracks/platforms."
-2026-10-07,この電車で合っていますか。,この でんしゃ で あっていますか,Kono densha de atte imasu ka.,Is this the right train?,電車 = train; 合う = be correct,合っています = is correct,Very useful when confirming you boarded or are about to board the correct train.
-2026-10-07,どこで乗り換えますか。,どこで のりかえますか,Doko de norikaemasu ka.,Where do I transfer?,乗り換える = transfer,で marks place of action,Ask where you need to change trains.
-2026-10-07,新宿まで何分かかりますか。,しんじゅく まで なんぷん かかりますか,Shinjuku made nanpun kakarimasu ka.,How many minutes does it take to Shinjuku?,まで = until/to; 何分 = how many minutes; かかる = take,time + かかります,Replace 新宿 with your destination.
-2026-10-07,ICカードは使えますか。,あいしーかーど は つかえますか,IC kādo wa tsukaemasu ka.,Can I use an IC card?,ICカード = transit IC card; 使う = use,potential 使えます,"Useful for buses, trains, shops, lockers, and other services."
-2026-10-07,チャージできますか。,ちゃーじ できますか,Chāji dekimasu ka.,Can I top it up?,チャージ = recharge / top up,できますか = can do?,Common Japanese usage for adding money to an IC card or prepaid balance.
-2026-10-07,出口はどちらですか。,でぐち は どちら ですか,Deguchi wa dochira desu ka.,Which way is the exit?,出口 = exit; どちら = which direction,どちら = polite which/where,More polite than 出口はどこですか and natural when asking station staff.
-2026-10-07,右です。,みぎ です,Migi desu.,It's on the right.,右 = right,noun + です,A basic direction response.
-2026-10-07,左です。,ひだり です,Hidari desu.,It's on the left.,左 = left,noun + です,A basic direction response.
-2026-10-07,まっすぐ行ってください。,まっすぐ いって ください,Massugu itte kudasai.,Please go straight.,まっすぐ = straight; 行く = go,て-form + ください,A common direction instruction.
-2026-10-07,ここで待ってもいいですか。,ここで まっても いいですか,Koko de matte mo ii desu ka.,May I wait here?,待つ = wait; ここ = here,て-form + もいいですか = may I?,で marks the place where waiting happens.
-2026-10-07,ちょっと待ってください。,ちょっと まって ください,Chotto matte kudasai.,Please wait a moment.,ちょっと = a little; 待つ = wait,て-form + ください,Extremely common. 待つ changes to 待って.
-2026-10-07,今、何時ですか。,いま なんじ ですか,Ima nanji desu ka.,What time is it now?,今 = now; 何時 = what time,何時ですか = what time is it?,A basic everyday time question.
-2026-10-07,今日は何日ですか。,きょう は なんにち ですか,Kyō wa nannichi desu ka.,What date is it today?,今日 = today; 何日 = what date,は marks topic,何日 is read nannichi when asking the date.
-2026-10-07,今日は暑いですね。,きょう は あつい ですね,Kyō wa atsui desu ne.,"It's hot today, isn't it?",今日 = today; 暑い = hot,ね seeks agreement,Weather comments are common small talk. ね makes it shared/agreeable.
-2026-10-07,今日は寒いですね。,きょう は さむい ですね,Kyō wa samui desu ne.,"It's cold today, isn't it?",寒い = cold,ね = isn't it / right?,A natural piece of casual small talk.
-2026-10-07,雨が降っています。,あめ が ふっています,Ame ga futte imasu.,It's raining.,雨 = rain; 降る = fall,ている = ongoing action,"降る becomes 降って. Literally, rain is falling."
-2026-10-07,傘を持っていますか。,かさ を もっていますか,Kasa o motte imasu ka.,Do you have an umbrella?,傘 = umbrella; 持つ = have/carry,持っています = have / be carrying,ている with 持つ commonly expresses possession.
-2026-10-07,今日は仕事です。,きょう は しごと です,Kyō wa shigoto desu.,I'm working today.,今日 = today; 仕事 = work,noun + です,"Literally, as for today, [it] is work. Natural shorthand for having work today."
-2026-10-07,明日は休みです。,あした は やすみ です,Ashita wa yasumi desu.,I'm off tomorrow.,明日 = tomorrow; 休み = day off,noun + です,Natural way to say tomorrow is your day off.
-2026-10-07,今、忙しいですか。,いま いそがしい ですか,Ima isogashii desu ka.,Are you busy now?,今 = now; 忙しい = busy,い-adjective + ですか,"A polite, simple way to check whether someone has time."
-2026-10-07,少し時間がありますか。,すこし じかん が ありますか,Sukoshi jikan ga arimasu ka.,Do you have a little time?,少し = a little; 時間 = time,があります = there is / have,"Literally, is there a little time? A polite way to ask for someone's time."
-2026-10-07,手伝ってもらえますか。,てつだって もらえますか,Tetsudatte moraemasu ka.,Could you help me?,手伝う = help; もらう = receive,て-form + もらえますか = could I receive the favor?,A polite and natural request for someone's help.
-2026-10-07,ちょっと確認します。,ちょっと かくにん します,Chotto kakunin shimasu.,I'll check.,確認 = confirmation/check; ちょっと = a moment,noun + します,Common at work and in service interactions when you need to verify something.
-2026-10-07,後で連絡します。,あとで れんらく します,Ato de renraku shimasu.,I'll contact you later.,後で = later; 連絡 = contact,noun + します,A useful work and social phrase for promising a later message/call.
-2026-10-07,メールを送りました。,めーる を おくりました,Mēru o okurimashita.,I sent the email.,メール = email; 送る = send,～ました = polite past,送ります becomes 送りました to say the action is completed.
-2026-10-07,もう一度確認してください。,もう いちど かくにんして ください,Mō ichido kakunin shite kudasai.,Please check again.,もう一度 = once again; 確認 = check,て-form + ください,A direct but polite request commonly useful at work.
-2026-10-07,問題ありません。,もんだい ありません,Mondai arimasen.,No problem.,問題 = problem; ある = exist,ありません = there isn't,"Literally, there is no problem. Slightly more formal than 大丈夫です."
-2026-10-07,いいと思います。,いい と おもいます,Ii to omoimasu.,I think it's good.,いい = good; 思う = think,と marks quoted thought,The content before と is what you think: good + I think.
-2026-10-07,そう思います。,そう おもいます,Sō omoimasu.,I think so.,そう = so / that way; 思う = think,そう + 思います,A concise way to agree with an opinion.
-2026-10-07,ちょっと難しいです。,ちょっと むずかしい です,Chotto muzukashii desu.,That's a little difficult.,ちょっと = a little; 難しい = difficult,softening with ちょっと,"In Japanese this can politely imply that something may not be possible, not merely that it is difficult."
-2026-10-07,できると思います。,できる と おもいます,Dekiru to omoimasu.,I think I can do it / I think it's possible.,できる = can do; 思う = think,plain form + と思います,A useful way to express a tentative positive judgment.
-2026-10-07,今日はちょっと無理です。,きょう は ちょっと むり です,Kyō wa chotto muri desu.,Today is a bit difficult / I can't today.,無理 = impossible / unreasonable,ちょっと softens refusal,A natural indirect way to decline plans for today.
-2026-10-07,また今度お願いします。,また こんど おねがいします,Mata kondo onegai shimasu.,Maybe next time / Please ask me again another time.,また = again; 今度 = next time,set polite expression,A friendly way to defer something to another occasion.
-2026-10-07,何をしていますか。,なにを していますか,Nani o shite imasu ka.,What are you doing?,何 = what; する = do,している = be doing,The ongoing form of する asks what someone is currently doing.
-2026-10-07,どこに住んでいますか。,どこに すんでいますか,Doko ni sunde imasu ka.,Where do you live?,住む = live; どこ = where,に marks location; 住んでいます = live,住む changes to 住んで in the て-form.
-2026-10-07,東京に住んでいます。,とうきょう に すんでいます,Tōkyō ni sunde imasu.,I live in Tokyo.,東京 = Tokyo; 住む = live,に marks location of residence,"Use に, not で, with 住む for the place where you live."
-2026-10-07,どこから来ましたか。,どこから きましたか,Doko kara kimashita ka.,Where are you from?,どこ = where; から = from; 来る = come,から marks origin,"Literally, From where did you come? Common when getting acquainted."
-2026-10-07,インドから来ました。,いんど から きました,Indo kara kimashita.,I'm from India.,インド = India; から = from,から marks origin,"Literally, I came from India. A standard way to state where you are from."
-2026-10-07,日本に来てどのくらいですか。,にほん に きて どのくらい ですか,Nihon ni kite dono kurai desu ka.,How long have you been in Japan?,日本 = Japan; どのくらい = how long,て + duration expression,"Literally, after coming to Japan, about how long [has it been]?"
-2026-10-07,三か月ぐらいです。,さんかげつ ぐらい です,Sankagetsu gurai desu.,About three months.,三か月 = three months; ぐらい = about,duration + ぐらい,A natural short answer to a question about how long.
-2026-10-07,日本が好きです。,にほん が すき です,Nihon ga suki desu.,I like Japan.,日本 = Japan; 好き = liked/favorite,好き takes が,Japanese 好き behaves like a na-adjective; the liked thing is commonly marked by が.
-2026-10-07,日本の生活に慣れました。,にほん の せいかつ に なれました,Nihon no seikatsu ni naremashita.,I've gotten used to life in Japan.,生活 = life; 慣れる = get used to,に marks what you get used to,慣れました is the polite past and often implies the adjustment has happened.
-2026-10-07,まだ慣れていません。,まだ なれていません,Mada narete imasen.,I'm not used to it yet.,まだ = still/yet; 慣れる = get used to,ていません = not yet in state,まだ plus negative naturally means not yet.
-2026-10-07,楽しいです。,たのしい です,Tanoshii desu.,It's fun / I'm enjoying it.,楽しい = fun / enjoyable,い-adjective + です,A simple positive response about an experience or activity.
-2026-10-07,疲れました。,つかれました,Tsukaremashita.,I'm tired.,疲れる = become tired,～ました = polite past,Japanese commonly uses the past form 疲れました to express the resulting state: I got tired / I'm tired.
-2026-10-07,お腹が空きました。,おなか が すきました,Onaka ga sukimashita.,I'm hungry.,お腹 = stomach; 空く = become empty,～ました expresses resulting state,"Literally, my stomach became empty."
-2026-10-07,喉が渇きました。,のど が かわきました,Nodo ga kawakimashita.,I'm thirsty.,喉 = throat; 渇く = become dry,～ました expresses resulting state,"Literally, my throat became dry."
-2026-10-07,ちょっと休みたいです。,ちょっと やすみたい です,Chotto yasumitai desu.,I'd like to rest a little.,休む = rest; ちょっと = a little,verb stem + たい = want to,休み + たい expresses your desire to rest.
-2026-10-07,写真を撮ってもらえますか。,しゃしん を とって もらえますか,Shashin o totte moraemasu ka.,Could you take a photo for me?,写真 = photo; 撮る = take a photo,て + もらえますか = could you do for me?,A natural polite request to a stranger to take your photo.
-2026-10-07,ここで写真を撮ってもいいですか。,ここで しゃしん を とっても いいですか,Koko de shashin o totte mo ii desu ka.,May I take photos here?,写真 = photo; 撮る = take,て + もいいですか = may I?,"Useful in temples, shops, museums, or other places where photography rules may vary."
-2026-10-07,Wi-Fiはありますか。,わいふぁい は ありますか,Waifai wa arimasu ka.,Is there Wi-Fi?,Wi-Fi = Wi-Fi; ある = exist,ありますか = is there?,"A straightforward question at hotels, cafes, stations, and restaurants."
-2026-10-07,パスワードは何ですか。,ぱすわーど は なんですか,Pasuwādo wa nan desu ka.,What is the password?,パスワード = password; 何 = what,X は何ですか,Often follows a question about Wi-Fi.
-2026-10-07,充電してもいいですか。,じゅうでん しても いいですか,Jūden shite mo ii desu ka.,May I charge my device?,充電 = charging,してもいいですか = may I do?,A permission request for using a power outlet or charging point.
-2026-10-07,コンセントはありますか。,こんせんと は ありますか,Konsento wa arimasu ka.,Is there a power outlet?,コンセント = electrical outlet,ありますか = is there?,"In Japanese, コンセント means a wall power outlet, not consent."
-2026-10-07,助かりました。,たすかりました,Tasukarimashita.,That was very helpful / You saved me.,助かる = be helped / saved,～ました = polite past,A warm and natural way to thank someone whose help solved a problem.
-2026-10-07,気をつけてください。,きを つけて ください,Ki o tsukete kudasai.,Please be careful / Take care.,気 = attention; つける = attach,気をつける = be careful,A common phrase for warning someone or wishing them safety.
-2026-10-07,また会いましょう。,また あいましょう,Mata aimashō.,Let's meet again.,また = again; 会う = meet,～ましょう = let's,A friendly phrase when parting from someone you expect or hope to see again.
-2026-10-07,またね。,またね,Mata ne.,See you.,また = again; ね = friendly particle,casual expression,"Casual and friendly. Use with friends and people you are comfortable with, not formal situations."
-2026-10-07,お疲れさまです。,おつかれさま です,Otsukaresama desu.,Thanks for your hard work / Hello at work.,お疲れさま = acknowledgment of effort,set workplace expression,"Extremely common in Japanese workplaces. It can function as a greeting, acknowledgement, or thanks among colleagues."
-2026-10-07,お先に失礼します。,おさきに しつれい します,Osaki ni shitsurei shimasu.,Excuse me for leaving before you.,お先に = before you; 失礼 = rudeness/excuse,失礼します = excuse me,A standard phrase when leaving the workplace while others are still working.
+Date,Japanese,Hiragana,Romaji,English,Vocabulary,Grammar,Explanation,Category
+2026-10-07,空港が大きくなります。,くうこう が おおきく なります,Kūkō ga ōkiku narimasu.,The airport will become bigger.,空港 = airport; 大きい = big,～くなります = becomes...,空港 (airport) + が (subject marker) + 大きい→大きく (big→adverbial form) + なります (becomes). Literally: Airport + [subject] + big + becomes.,Chat
+2026-10-07,滑走路が長くなります。,かっそうろ が ながく なります,Kassōro ga nagaku narimasu.,The runway will become longer.,滑走路 = runway; 長い = long,～くなります = becomes...,滑走路 (runway) + が + 長い→長く (long→adverbial form) + なります (becomes). Literally: Runway + [subject] + long + becomes.,Chat
+2026-10-07,大きい飛行機も着陸できます。,おおきい ひこうき も ちゃくりく できます,Ōkii hikōki mo chakuriku dekimasu.,Large airplanes can also land.,大きい = big; 飛行機 = airplane; 着陸 = landing,～できます = can do; も = also/too,大きい飛行機 (large airplane) + も (also) + 着陸できます (can land).,Chat
+2026-10-07,この空港はとても忙しいです。,この くうこう は とても いそがしい です,Kono kūkō wa totemo isogashii desu.,This airport is very busy.,空港 = airport; 忙しい = busy; とても = very,は = topic marker; ～です = polite copula,この空港 (this airport) + は (topic marker) + とても (very) + 忙しいです (is busy).,Chat
+2026-10-07,この滑走路は短いです。,この かっそうろ は みじかい です,Kono kassōro wa mijikai desu.,This runway is short.,滑走路 = runway; 短い = short,は = topic marker,この滑走路 (this runway) + は + 短いです (is short).,Chat
+2026-10-07,滑走路は約2800メートルです。,かっそうろ は やく にせん はっぴゃく めーとる です,Kassōro wa yaku nisen happyaku mētoru desu.,"The runway is about 2,800 metres.",滑走路 = runway; 約 = approximately; メートル = metre,約 + number = approximately...,"滑走路は (as for the runway) + 約 (approximately) + 2800メートルです (is 2,800 metres).",Chat
+2026-10-07,毎日、日本語を勉強します。,まいにち、にほんご を べんきょう します,"Mainichi, Nihongo o benkyō shimasu.",I study Japanese every day.,毎日 = every day; 日本語 = Japanese; 勉強 = study,を = object marker; ～します = do,毎日 (every day) + 日本語を (Japanese + object marker) + 勉強します (study/do studying).,Chat
+2026-10-07,説明も書きます。,せつめい も かきます,Setsumei mo kakimasu.,I will also write an explanation.,説明 = explanation; 書く = write,も = also; 書きます = polite form of 書く,説明 (explanation) + も (also) + 書きます (write).,Chat
+2026-10-07,ここに保存します。,ここ に ほぞん します,Koko ni hozon shimasu.,I'll save it here.,ここ = here; 保存 = save,に = destination/location marker; ～します = do,ここ (here) + に (to/in) + 保存します (save).,Chat
+2026-10-07,このリポジトリに保存します。,この りぽじとり に ほぞん します,Kono ripojitori ni hozon shimasu.,I'll save it in this repository.,この = this; リポジトリ = repository; 保存 = save,に = destination marker,このリポジトリ (this repository) + に (in/to) + 保存します (save).,Chat
+2026-10-07,おはようございます。,おはようございます,Ohayō gozaimasu.,Good morning.,おはよう = good morning,～ございます = polite expression,"A standard polite morning greeting. Use it with colleagues, neighbors, hotel staff, and people you meet in the morning.",Everyday
+2026-10-07,こんにちは。,こんにちは,Konnichiwa.,Hello / Good afternoon.,こんにちは = hello,Fixed greeting,A standard daytime greeting. The は is written as は but pronounced wa in this greeting.,Everyday
+2026-10-07,こんばんは。,こんばんは,Konbanwa.,Good evening.,こんばんは = good evening,Fixed greeting,A standard greeting used in the evening. The final は is pronounced wa.,Everyday
+2026-10-07,ありがとうございます。,ありがとうございます,Arigatō gozaimasu.,Thank you very much.,ありがとう = thanks,ございます adds politeness,"The normal polite way to thank someone in shops, restaurants, work, or everyday interactions.",Everyday
+2026-10-07,どうもありがとうございます。,どうも ありがとうございます,Dōmo arigatō gozaimasu.,Thank you very much indeed.,どうも = very / really; ありがとう = thanks,どうも intensifies thanks,A warmer and stronger thank-you than ありがとうございます.,Everyday
+2026-10-07,すみません。,すみません,Sumimasen.,Excuse me / Sorry.,すみません = excuse me / sorry,Context-dependent expression,"Extremely useful. Use it to get attention, apologize lightly, pass someone, or even when someone helps you.",Everyday
+2026-10-07,ごめんなさい。,ごめんなさい,Gomen nasai.,I'm sorry.,ごめんなさい = sorry,Polite apology,"A direct apology. With strangers and in service situations, すみません is often more natural for small inconveniences.",Everyday
+2026-10-07,お願いします。,おねがいします,Onegai shimasu.,Please.,お願い = request,noun + します,"Used when asking for something or handing something over for service. Literally, I make a request.",Everyday
+2026-10-07,よろしくお願いします。,よろしく おねがいします,Yoroshiku onegai shimasu.,Nice to meet you / I look forward to working with you.,よろしく = favorably / well; お願い = request,Set social expression,"A very Japanese multipurpose phrase used after introductions, requests, or when starting to work with someone.",Everyday
+2026-10-07,はじめまして。,はじめまして,Hajimemashite.,Nice to meet you.,はじめまして = for the first time,Fixed introduction,"Used only when meeting someone for the first time, usually followed by your name and よろしくお願いします.",Everyday
+2026-10-07,お元気ですか。,おげんき ですか,Ogenki desu ka.,How are you?,元気 = well / healthy,お + noun adds politeness; か marks question,"Literally, Are you well? More common when you have not seen someone for some time than as a daily greeting.",Everyday
+2026-10-07,元気です。,げんき です,Genki desu.,I'm well.,元気 = well / energetic,noun + です,A simple polite response to お元気ですか.,Everyday
+2026-10-07,大丈夫です。,だいじょうぶ です,Daijōbu desu.,It's okay / I'm fine / No thank you.,大丈夫 = okay / all right,noun + です,"Very context-dependent. It can mean I'm okay, that's fine, or politely decline an offer.",Everyday
+2026-10-07,分かりました。,わかりました,Wakarimashita.,I understand / Got it.,分かる = understand,past polite form ～ました,Literally understood. Common acknowledgement when someone gives instructions or information.,Everyday
+2026-10-07,分かりません。,わかりません,Wakarimasen.,I don't understand / I don't know.,分かる = understand,～ません = polite negative,Use when you do not understand something or do not know the answer.,Everyday
+2026-10-07,もう一度お願いします。,もう いちど おねがいします,Mō ichido onegai shimasu.,"One more time, please.",もう一度 = once more; お願いします = please,request with お願いします,A useful way to ask someone to repeat what they said.,Everyday
+2026-10-07,ゆっくり話してください。,ゆっくり はなして ください,Yukkuri hanashite kudasai.,Please speak slowly.,ゆっくり = slowly; 話す = speak,て-form + ください = please do,"話す becomes 話して, followed by ください to make a polite request.",Everyday
+2026-10-07,日本語は少しだけ話せます。,にほんご は すこし だけ はなせます,Nihongo wa sukoshi dake hanasemasu.,I can speak only a little Japanese.,少し = a little; だけ = only; 話す = speak,potential form 話せます = can speak,A natural way to set expectations about your Japanese ability.,Everyday
+2026-10-07,英語は話せますか。,えいご は はなせますか,Eigo wa hanasemasu ka.,Can you speak English?,英語 = English; 話す = speak,potential + か,話せます means can speak; か turns the polite statement into a question.,Everyday
+2026-10-07,これは何ですか。,これは なんですか,Kore wa nan desu ka.,What is this?,これ = this; 何 = what,X は何ですか = what is X?,One of the most useful basic question patterns.,Everyday
+2026-10-07,これはどういう意味ですか。,これは どういう いみ ですか,Kore wa dō iu imi desu ka.,What does this mean?,どういう = what kind of; 意味 = meaning,どういう意味 = what meaning,"Use when asking about a Japanese word, sign, sentence, or expression.",Everyday
+2026-10-07,日本語で何と言いますか。,にほんご で なんと いいますか,Nihongo de nan to iimasu ka.,How do you say it in Japanese?,日本語 = Japanese; 言う = say,で = in/by means of; と = quotation marker,"Literally, What do you say [it] as in Japanese? Useful for learning vocabulary in context.",Everyday
+2026-10-07,これをください。,これを ください,Kore o kudasai.,"This one, please.",これ = this; ください = please give,を marks object,Point to an item and say this when buying or ordering.,Everyday
+2026-10-07,これをお願いします。,これを おねがいします,Kore o onegai shimasu.,"This one, please.",これ = this; お願いします = please,を marks requested object,Softer and very common when ordering food or requesting an item/service.,Everyday
+2026-10-07,いくらですか。,いくら ですか,Ikura desu ka.,How much is it?,いくら = how much,question + ですか,Standard way to ask the price.,Everyday
+2026-10-07,カードは使えますか。,かーど は つかえますか,Kādo wa tsukaemasu ka.,Can I use a card?,カード = card; 使う = use,potential 使えます = can use,Useful at shops and restaurants to ask whether cards are accepted.,Everyday
+2026-10-07,現金だけですか。,げんきん だけ ですか,Genkin dake desu ka.,Is it cash only?,現金 = cash; だけ = only,noun + だけ = only,Ask this when you are unsure whether electronic or card payment is accepted.,Everyday
+2026-10-07,袋をお願いします。,ふくろ を おねがいします,Fukuro o onegai shimasu.,"A bag, please.",袋 = bag,を + お願いします,Useful at convenience stores and supermarkets because shopping bags are often optional.,Everyday
+2026-10-07,袋はいりません。,ふくろ は いりません,Fukuro wa irimasen.,I don't need a bag.,袋 = bag; 要る = need,要ります → 要りません = do not need,A common response at checkout when you already have a bag.,Everyday
+2026-10-07,レシートをください。,れしーと を ください,Reshīto o kudasai.,Please give me the receipt.,レシート = receipt,を + ください,A direct polite request for a receipt.,Everyday
+2026-10-07,これを試着してもいいですか。,これを しちゃくしても いいですか,Kore o shichaku shite mo ii desu ka.,May I try this on?,試着 = trying on clothes,て-form + もいいですか = may I?,A standard permission pattern: do X + is it okay?,Everyday
+2026-10-07,別のサイズはありますか。,べつの さいず は ありますか,Betsu no saizu wa arimasu ka.,Do you have another size?,別 = different; サイズ = size,ありますか = is there / do you have,Use in clothing or shoe shops to ask for another size.,Everyday
+2026-10-07,もう少し大きいサイズはありますか。,もう すこし おおきい さいず は ありますか,Mō sukoshi ōkii saizu wa arimasu ka.,Do you have a slightly larger size?,もう少し = a little more; 大きい = large,ありますか = do you have,もう少し modifies 大きい to mean a little larger.,Everyday
+2026-10-07,もう少し小さいサイズはありますか。,もう すこし ちいさい さいず は ありますか,Mō sukoshi chiisai saizu wa arimasu ka.,Do you have a slightly smaller size?,小さい = small; サイズ = size,ありますか = do you have,The counterpart to asking for a larger size.,Everyday
+2026-10-07,見ているだけです。,みている だけ です,Mite iru dake desu.,I'm just looking.,見る = look; だけ = only,ている = ongoing action,Useful when shop staff approach and you do not need assistance yet.,Everyday
+2026-10-07,免税できますか。,めんぜい できますか,Menzei dekimasu ka.,Can I get tax-free shopping?,免税 = tax exemption,できますか = can it be done?,Useful at stores offering tax-free purchases to eligible visitors.,Everyday
+2026-10-07,予約しています。,よやく しています,Yoyaku shite imasu.,I have a reservation.,予約 = reservation,～しています = have done / state,"At a restaurant or hotel, this naturally communicates that you already have a booking.",Everyday
+2026-10-07,二人です。,ふたり です,Futari desu.,Two people.,二人 = two people,counter for people,A natural short response when restaurant staff ask how many people are in your party.,Everyday
+2026-10-07,一人です。,ひとり です,Hitori desu.,One person.,一人 = one person,special people counter,Useful when entering a restaurant alone.,Everyday
+2026-10-07,メニューをお願いします。,めにゅー を おねがいします,Menyū o onegai shimasu.,"The menu, please.",メニュー = menu,を + お願いします,A polite request for a menu.,Everyday
+2026-10-07,英語のメニューはありますか。,えいご の めにゅー は ありますか,Eigo no menyū wa arimasu ka.,Do you have an English menu?,英語 = English; メニュー = menu,N の N = noun modifying noun,英語のメニュー literally means English-language menu.,Everyday
+2026-10-07,おすすめは何ですか。,おすすめ は なんですか,Osusume wa nan desu ka.,What do you recommend?,おすすめ = recommendation; 何 = what,X は何ですか,A very useful restaurant and shopping question.,Everyday
+2026-10-07,これにします。,これに します,Kore ni shimasu.,I'll have this / I'll choose this.,これ = this,N にします = decide on N,A natural phrase for making your final choice from a menu or options.,Everyday
+2026-10-07,水をお願いします。,みず を おねがいします,Mizu o onegai shimasu.,"Water, please.",水 = water,を + お願いします,A polite way to request water.,Everyday
+2026-10-07,お会計をお願いします。,おかいけい を おねがいします,Okaikei o onegai shimasu.,"The bill, please.",お会計 = bill / checkout,お + noun adds politeness,Use when you are ready to pay at a restaurant.,Everyday
+2026-10-07,別々に払えますか。,べつべつ に はらえますか,Betsubetsu ni haraemasu ka.,Can we pay separately?,別々 = separately; 払う = pay,potential 払えます = can pay,Useful when asking whether a restaurant can split the bill.,Everyday
+2026-10-07,一緒に払います。,いっしょ に はらいます,Issho ni haraimasu.,We'll pay together.,一緒に = together; 払う = pay,に makes 一緒 adverbial,Useful at checkout when staff ask whether payment is together or separate.,Everyday
+2026-10-07,辛くしないでください。,からく しないで ください,Karaku shinaide kudasai.,Please don't make it spicy.,辛い = spicy,～ないでください = please don't,辛い changes to 辛く before する; しないでください means please do not make/do.,Everyday
+2026-10-07,肉は入っていますか。,にく は はいっていますか,Niku wa haitte imasu ka.,Does it contain meat?,肉 = meat; 入る = enter / be included,～ています = resulting state,"Literally, Is meat in it? Useful for checking ingredients.",Everyday
+2026-10-07,これは生ですか。,これは なま ですか,Kore wa nama desu ka.,Is this raw?,生 = raw / uncooked,noun + ですか,"Useful when checking whether fish, egg, or meat is uncooked.",Everyday
+2026-10-07,よく焼いてください。,よく やいて ください,Yoku yaite kudasai.,Please cook it well.,よく = thoroughly; 焼く = grill/cook,て-form + ください,焼く becomes 焼いて. Useful when requesting food to be well cooked.,Everyday
+2026-10-07,おいしいです。,おいしい です,Oishii desu.,It's delicious.,おいしい = delicious,い-adjective + です,A simple polite compliment about food.,Everyday
+2026-10-07,ごちそうさまでした。,ごちそうさま でした,Gochisōsama deshita.,Thank you for the meal.,ごちそうさま = thanks for the meal,でした = polite past copula,"Commonly said after finishing a meal, including when leaving a restaurant.",Everyday
+2026-10-07,駅はどこですか。,えき は どこ ですか,Eki wa doko desu ka.,Where is the station?,駅 = station; どこ = where,X はどこですか = where is X?,A fundamental location question pattern.,Everyday
+2026-10-07,トイレはどこですか。,といれ は どこ ですか,Toire wa doko desu ka.,Where is the toilet?,トイレ = toilet; どこ = where,X はどこですか,One of the most practical phrases to memorize.,Everyday
+2026-10-07,ここから遠いですか。,ここから とおい ですか,Koko kara tōi desu ka.,Is it far from here?,ここ = here; から = from; 遠い = far,N から = from N,Use when checking the distance to a destination.,Everyday
+2026-10-07,歩いて行けますか。,あるいて いけますか,Aruite ikemasu ka.,Can I walk there?,歩く = walk; 行く = go,て-form + potential 行けます,"Literally, can [I] go by walking?",Everyday
+2026-10-07,どうやって行きますか。,どうやって いきますか,Dō yatte ikimasu ka.,How do I get there?,どうやって = how; 行く = go,どうやって asks method,Useful when asking which transport or route to take.,Everyday
+2026-10-07,この電車は東京駅に行きますか。,この でんしゃ は とうきょうえき に いきますか,Kono densha wa Tōkyō-eki ni ikimasu ka.,Does this train go to Tokyo Station?,電車 = train; 駅 = station; 行く = go,に marks destination,Replace 東京駅 with any station or destination.,Everyday
+2026-10-07,次の電車は何時ですか。,つぎの でんしゃ は なんじ ですか,Tsugi no densha wa nanji desu ka.,What time is the next train?,次 = next; 電車 = train; 何時 = what time,の links nouns,A straightforward way to ask departure time.,Everyday
+2026-10-07,何番線ですか。,なんばんせん ですか,Nanbansen desu ka.,Which platform is it?,何番線 = which track/platform,何番 = what number,"At Japanese stations, 番線 refers to numbered railway tracks/platforms.",Everyday
+2026-10-07,この電車で合っていますか。,この でんしゃ で あっていますか,Kono densha de atte imasu ka.,Is this the right train?,電車 = train; 合う = be correct,合っています = is correct,Very useful when confirming you boarded or are about to board the correct train.,Everyday
+2026-10-07,どこで乗り換えますか。,どこで のりかえますか,Doko de norikaemasu ka.,Where do I transfer?,乗り換える = transfer,で marks place of action,Ask where you need to change trains.,Everyday
+2026-10-07,新宿まで何分かかりますか。,しんじゅく まで なんぷん かかりますか,Shinjuku made nanpun kakarimasu ka.,How many minutes does it take to Shinjuku?,まで = until/to; 何分 = how many minutes; かかる = take,time + かかります,Replace 新宿 with your destination.,Everyday
+2026-10-07,ICカードは使えますか。,あいしーかーど は つかえますか,IC kādo wa tsukaemasu ka.,Can I use an IC card?,ICカード = transit IC card; 使う = use,potential 使えます,"Useful for buses, trains, shops, lockers, and other services.",Everyday
+2026-10-07,チャージできますか。,ちゃーじ できますか,Chāji dekimasu ka.,Can I top it up?,チャージ = recharge / top up,できますか = can do?,Common Japanese usage for adding money to an IC card or prepaid balance.,Everyday
+2026-10-07,出口はどちらですか。,でぐち は どちら ですか,Deguchi wa dochira desu ka.,Which way is the exit?,出口 = exit; どちら = which direction,どちら = polite which/where,More polite than 出口はどこですか and natural when asking station staff.,Everyday
+2026-10-07,右です。,みぎ です,Migi desu.,It's on the right.,右 = right,noun + です,A basic direction response.,Everyday
+2026-10-07,左です。,ひだり です,Hidari desu.,It's on the left.,左 = left,noun + です,A basic direction response.,Everyday
+2026-10-07,まっすぐ行ってください。,まっすぐ いって ください,Massugu itte kudasai.,Please go straight.,まっすぐ = straight; 行く = go,て-form + ください,A common direction instruction.,Everyday
+2026-10-07,ここで待ってもいいですか。,ここで まっても いいですか,Koko de matte mo ii desu ka.,May I wait here?,待つ = wait; ここ = here,て-form + もいいですか = may I?,で marks the place where waiting happens.,Everyday
+2026-10-07,ちょっと待ってください。,ちょっと まって ください,Chotto matte kudasai.,Please wait a moment.,ちょっと = a little; 待つ = wait,て-form + ください,Extremely common. 待つ changes to 待って.,Everyday
+2026-10-07,今、何時ですか。,いま なんじ ですか,Ima nanji desu ka.,What time is it now?,今 = now; 何時 = what time,何時ですか = what time is it?,A basic everyday time question.,Everyday
+2026-10-07,今日は何日ですか。,きょう は なんにち ですか,Kyō wa nannichi desu ka.,What date is it today?,今日 = today; 何日 = what date,は marks topic,何日 is read nannichi when asking the date.,Everyday
+2026-10-07,今日は暑いですね。,きょう は あつい ですね,Kyō wa atsui desu ne.,"It's hot today, isn't it?",今日 = today; 暑い = hot,ね seeks agreement,Weather comments are common small talk. ね makes it shared/agreeable.,Everyday
+2026-10-07,今日は寒いですね。,きょう は さむい ですね,Kyō wa samui desu ne.,"It's cold today, isn't it?",寒い = cold,ね = isn't it / right?,A natural piece of casual small talk.,Everyday
+2026-10-07,雨が降っています。,あめ が ふっています,Ame ga futte imasu.,It's raining.,雨 = rain; 降る = fall,ている = ongoing action,"降る becomes 降って. Literally, rain is falling.",Everyday
+2026-10-07,傘を持っていますか。,かさ を もっていますか,Kasa o motte imasu ka.,Do you have an umbrella?,傘 = umbrella; 持つ = have/carry,持っています = have / be carrying,ている with 持つ commonly expresses possession.,Everyday
+2026-10-07,今日は仕事です。,きょう は しごと です,Kyō wa shigoto desu.,I'm working today.,今日 = today; 仕事 = work,noun + です,"Literally, as for today, [it] is work. Natural shorthand for having work today.",Everyday
+2026-10-07,明日は休みです。,あした は やすみ です,Ashita wa yasumi desu.,I'm off tomorrow.,明日 = tomorrow; 休み = day off,noun + です,Natural way to say tomorrow is your day off.,Everyday
+2026-10-07,今、忙しいですか。,いま いそがしい ですか,Ima isogashii desu ka.,Are you busy now?,今 = now; 忙しい = busy,い-adjective + ですか,"A polite, simple way to check whether someone has time.",Everyday
+2026-10-07,少し時間がありますか。,すこし じかん が ありますか,Sukoshi jikan ga arimasu ka.,Do you have a little time?,少し = a little; 時間 = time,があります = there is / have,"Literally, is there a little time? A polite way to ask for someone's time.",Everyday
+2026-10-07,手伝ってもらえますか。,てつだって もらえますか,Tetsudatte moraemasu ka.,Could you help me?,手伝う = help; もらう = receive,て-form + もらえますか = could I receive the favor?,A polite and natural request for someone's help.,Everyday
+2026-10-07,ちょっと確認します。,ちょっと かくにん します,Chotto kakunin shimasu.,I'll check.,確認 = confirmation/check; ちょっと = a moment,noun + します,Common at work and in service interactions when you need to verify something.,Everyday
+2026-10-07,後で連絡します。,あとで れんらく します,Ato de renraku shimasu.,I'll contact you later.,後で = later; 連絡 = contact,noun + します,A useful work and social phrase for promising a later message/call.,Everyday
+2026-10-07,メールを送りました。,めーる を おくりました,Mēru o okurimashita.,I sent the email.,メール = email; 送る = send,～ました = polite past,送ります becomes 送りました to say the action is completed.,Everyday
+2026-10-07,もう一度確認してください。,もう いちど かくにんして ください,Mō ichido kakunin shite kudasai.,Please check again.,もう一度 = once again; 確認 = check,て-form + ください,A direct but polite request commonly useful at work.,Everyday
+2026-10-07,問題ありません。,もんだい ありません,Mondai arimasen.,No problem.,問題 = problem; ある = exist,ありません = there isn't,"Literally, there is no problem. Slightly more formal than 大丈夫です.",Everyday
+2026-10-07,いいと思います。,いい と おもいます,Ii to omoimasu.,I think it's good.,いい = good; 思う = think,と marks quoted thought,The content before と is what you think: good + I think.,Everyday
+2026-10-07,そう思います。,そう おもいます,Sō omoimasu.,I think so.,そう = so / that way; 思う = think,そう + 思います,A concise way to agree with an opinion.,Everyday
+2026-10-07,ちょっと難しいです。,ちょっと むずかしい です,Chotto muzukashii desu.,That's a little difficult.,ちょっと = a little; 難しい = difficult,softening with ちょっと,"In Japanese this can politely imply that something may not be possible, not merely that it is difficult.",Everyday
+2026-10-07,できると思います。,できる と おもいます,Dekiru to omoimasu.,I think I can do it / I think it's possible.,できる = can do; 思う = think,plain form + と思います,A useful way to express a tentative positive judgment.,Everyday
+2026-10-07,今日はちょっと無理です。,きょう は ちょっと むり です,Kyō wa chotto muri desu.,Today is a bit difficult / I can't today.,無理 = impossible / unreasonable,ちょっと softens refusal,A natural indirect way to decline plans for today.,Everyday
+2026-10-07,また今度お願いします。,また こんど おねがいします,Mata kondo onegai shimasu.,Maybe next time / Please ask me again another time.,また = again; 今度 = next time,set polite expression,A friendly way to defer something to another occasion.,Everyday
+2026-10-07,何をしていますか。,なにを していますか,Nani o shite imasu ka.,What are you doing?,何 = what; する = do,している = be doing,The ongoing form of する asks what someone is currently doing.,Everyday
+2026-10-07,どこに住んでいますか。,どこに すんでいますか,Doko ni sunde imasu ka.,Where do you live?,住む = live; どこ = where,に marks location; 住んでいます = live,住む changes to 住んで in the て-form.,Everyday
+2026-10-07,東京に住んでいます。,とうきょう に すんでいます,Tōkyō ni sunde imasu.,I live in Tokyo.,東京 = Tokyo; 住む = live,に marks location of residence,"Use に, not で, with 住む for the place where you live.",Everyday
+2026-10-07,どこから来ましたか。,どこから きましたか,Doko kara kimashita ka.,Where are you from?,どこ = where; から = from; 来る = come,から marks origin,"Literally, From where did you come? Common when getting acquainted.",Everyday
+2026-10-07,インドから来ました。,いんど から きました,Indo kara kimashita.,I'm from India.,インド = India; から = from,から marks origin,"Literally, I came from India. A standard way to state where you are from.",Everyday
+2026-10-07,日本に来てどのくらいですか。,にほん に きて どのくらい ですか,Nihon ni kite dono kurai desu ka.,How long have you been in Japan?,日本 = Japan; どのくらい = how long,て + duration expression,"Literally, after coming to Japan, about how long [has it been]?",Everyday
+2026-10-07,三か月ぐらいです。,さんかげつ ぐらい です,Sankagetsu gurai desu.,About three months.,三か月 = three months; ぐらい = about,duration + ぐらい,A natural short answer to a question about how long.,Everyday
+2026-10-07,日本が好きです。,にほん が すき です,Nihon ga suki desu.,I like Japan.,日本 = Japan; 好き = liked/favorite,好き takes が,Japanese 好き behaves like a na-adjective; the liked thing is commonly marked by が.,Everyday
+2026-10-07,日本の生活に慣れました。,にほん の せいかつ に なれました,Nihon no seikatsu ni naremashita.,I've gotten used to life in Japan.,生活 = life; 慣れる = get used to,に marks what you get used to,慣れました is the polite past and often implies the adjustment has happened.,Everyday
+2026-10-07,まだ慣れていません。,まだ なれていません,Mada narete imasen.,I'm not used to it yet.,まだ = still/yet; 慣れる = get used to,ていません = not yet in state,まだ plus negative naturally means not yet.,Everyday
+2026-10-07,楽しいです。,たのしい です,Tanoshii desu.,It's fun / I'm enjoying it.,楽しい = fun / enjoyable,い-adjective + です,A simple positive response about an experience or activity.,Everyday
+2026-10-07,疲れました。,つかれました,Tsukaremashita.,I'm tired.,疲れる = become tired,～ました = polite past,Japanese commonly uses the past form 疲れました to express the resulting state: I got tired / I'm tired.,Everyday
+2026-10-07,お腹が空きました。,おなか が すきました,Onaka ga sukimashita.,I'm hungry.,お腹 = stomach; 空く = become empty,～ました expresses resulting state,"Literally, my stomach became empty.",Everyday
+2026-10-07,喉が渇きました。,のど が かわきました,Nodo ga kawakimashita.,I'm thirsty.,喉 = throat; 渇く = become dry,～ました expresses resulting state,"Literally, my throat became dry.",Everyday
+2026-10-07,ちょっと休みたいです。,ちょっと やすみたい です,Chotto yasumitai desu.,I'd like to rest a little.,休む = rest; ちょっと = a little,verb stem + たい = want to,休み + たい expresses your desire to rest.,Everyday
+2026-10-07,写真を撮ってもらえますか。,しゃしん を とって もらえますか,Shashin o totte moraemasu ka.,Could you take a photo for me?,写真 = photo; 撮る = take a photo,て + もらえますか = could you do for me?,A natural polite request to a stranger to take your photo.,Everyday
+2026-10-07,ここで写真を撮ってもいいですか。,ここで しゃしん を とっても いいですか,Koko de shashin o totte mo ii desu ka.,May I take photos here?,写真 = photo; 撮る = take,て + もいいですか = may I?,"Useful in temples, shops, museums, or other places where photography rules may vary.",Everyday
+2026-10-07,Wi-Fiはありますか。,わいふぁい は ありますか,Waifai wa arimasu ka.,Is there Wi-Fi?,Wi-Fi = Wi-Fi; ある = exist,ありますか = is there?,"A straightforward question at hotels, cafes, stations, and restaurants.",Everyday
+2026-10-07,パスワードは何ですか。,ぱすわーど は なんですか,Pasuwādo wa nan desu ka.,What is the password?,パスワード = password; 何 = what,X は何ですか,Often follows a question about Wi-Fi.,Everyday
+2026-10-07,充電してもいいですか。,じゅうでん しても いいですか,Jūden shite mo ii desu ka.,May I charge my device?,充電 = charging,してもいいですか = may I do?,A permission request for using a power outlet or charging point.,Everyday
+2026-10-07,コンセントはありますか。,こんせんと は ありますか,Konsento wa arimasu ka.,Is there a power outlet?,コンセント = electrical outlet,ありますか = is there?,"In Japanese, コンセント means a wall power outlet, not consent.",Everyday
+2026-10-07,助かりました。,たすかりました,Tasukarimashita.,That was very helpful / You saved me.,助かる = be helped / saved,～ました = polite past,A warm and natural way to thank someone whose help solved a problem.,Everyday
+2026-10-07,気をつけてください。,きを つけて ください,Ki o tsukete kudasai.,Please be careful / Take care.,気 = attention; つける = attach,気をつける = be careful,A common phrase for warning someone or wishing them safety.,Everyday
+2026-10-07,また会いましょう。,また あいましょう,Mata aimashō.,Let's meet again.,また = again; 会う = meet,～ましょう = let's,A friendly phrase when parting from someone you expect or hope to see again.,Everyday
+2026-10-07,またね。,またね,Mata ne.,See you.,また = again; ね = friendly particle,casual expression,"Casual and friendly. Use with friends and people you are comfortable with, not formal situations.",Everyday
+2026-10-07,お疲れさまです。,おつかれさま です,Otsukaresama desu.,Thanks for your hard work / Hello at work.,お疲れさま = acknowledgment of effort,set workplace expression,"Extremely common in Japanese workplaces. It can function as a greeting, acknowledgement, or thanks among colleagues.",Everyday
+2026-10-07,お先に失礼します。,おさきに しつれい します,Osaki ni shitsurei shimasu.,Excuse me for leaving before you.,お先に = before you; 失礼 = rudeness/excuse,失礼します = excuse me,A standard phrase when leaving the workplace while others are still working.,Everyday
+2026-10-07,海賊王に俺はなる！,かいぞくおう に おれ は なる,Kaizoku-ō ni ore wa naru!,I'm going to become the King of the Pirates!,海賊王 = Pirate King; 俺 = I (masculine); なる = become,N に なる = become N,One Piece. 海賊王に = into/as Pirate King; 俺は = as for me; なる = will become. 俺 is rough/casual masculine speech.,Anime
+2026-10-07,生きたい！,いきたい,Ikitai!,I want to live!,生きる = live,verb stem + たい = want to,One Piece. 生きる becomes 生き + たい. This ～たい pattern is extremely useful for expressing what you want to do.,Anime
+2026-10-07,助けて！,たすけて,Tasukete!,Help me!,助ける = help/save,て-form used as an urgent request,"One Piece/common anime Japanese. The て-form alone can function as an informal or urgent request: literally, help/save [me]!",Anime
+2026-10-07,大丈夫、怖くない。,だいじょうぶ、こわくない,"Daijōbu, kowakunai.",It's okay. I'm not scared.,大丈夫 = okay; 怖い = scary/afraid,い-adjective negative: 怖い→怖くない,"SPY×FAMILY-style useful dialogue. 怖い loses い and takes くない to form the casual negative, not scared/not frightening.",Anime
+2026-10-07,任務を開始する。,にんむ を かいしする,Ninmu o kaishi suru.,Begin the mission.,任務 = mission; 開始 = start,noun + する; を marks object,SPY×FAMILY-style spy vocabulary. 任務を = mission as object; 開始する = begin/start. The plain form sounds concise and mission-like.,Anime
+2026-10-07,わくわく！,わくわく,Waku waku!,So exciting!,わくわく = excited/thrilled,mimetic adverb/expression,Strongly associated with Anya in SPY×FAMILY. わくわく describes the feeling of excited anticipation and is also normal everyday Japanese.,Anime
+2026-10-07,だいじょうぶます！,だいじょうぶます,Daijōbu masu!,I'm okay!,大丈夫 = okay; ます = polite verb ending,deliberately childlike/nonstandard grammar,"SPY×FAMILY/Anya-style speech. This is intentionally grammatically odd: standard Japanese is 大丈夫です. Useful for recognizing Anya's childlike way of speaking, not for normal conversation.",Anime
+2026-10-07,まっすぐ自分の言葉は曲げねぇ。,まっすぐ じぶん の ことば は まげねぇ,Massugu jibun no kotoba wa magenē.,I won't go back on my word.,まっすぐ = straight; 自分 = oneself; 言葉 = words; 曲げる = bend,曲げねぇ = rough contraction of 曲げない,"Naruto. The rough ねぇ is a masculine/casual contraction of ない. Literally, I won't bend my own words. Recognize it in anime; use 曲げない in neutral speech.",Anime
+2026-10-07,諦めねぇ。,あきらめねぇ,Akiramenē.,I won't give up.,諦める = give up,～ねぇ = rough ～ない,Naruto-style rough speech. Standard neutral Japanese is 諦めない. Anime often uses ねぇ to make masculine speech sound tougher.,Anime
+2026-10-07,火影になる。,ほかげ に なる,Hokage ni naru.,I'll become Hokage.,火影 = Hokage; なる = become,N に なる = become N,Naruto. This uses exactly the same core grammar as 海賊王になる: noun + に + なる means to become that noun.,Anime
+2026-10-07,影分身の術！,かげぶんしん の じゅつ,Kage bunshin no jutsu!,Shadow Clone Jutsu!,影 = shadow; 分身 = clone/double; 術 = technique,N の N = N's/of N,Naruto. の links nouns: 影分身 (shadow clone) + の + 術 (technique). Useful for recognizing the very common noun-linking particle の.,Anime
+2026-10-07,心臓を捧げよ！,しんぞう を ささげよ,Shinzō o sasageyo!,Dedicate your hearts!,心臓 = heart; 捧げる = dedicate/offer,捧げよ = forceful literary imperative,Attack on Titan. A famous military-style command. 捧げよ is a strong/literary imperative of 捧げる and is not normal polite everyday speech.,Anime
+2026-10-07,戦わなければ勝てない。,たたかわなければ かてない,Tatakawanakereba katenai.,"If you don't fight, you can't win.",戦う = fight; 勝つ = win,～なければ = if not; potential negative 勝てない = cannot win,Attack on Titan. 戦わなければ sets the negative condition if [you] don't fight; 勝てない means cannot win.,Anime
+2026-10-07,駆逐してやる。,くちくして やる,Kuchiku shite yaru.,I'll wipe them out.,駆逐 = eradicate; やる = do,て-form + やる can show forceful intent,Attack on Titan-style forceful speech. This construction can sound aggressive; learn it for comprehension rather than ordinary polite conversation.,Anime
+2026-10-07,自由だ。,じゆう だ,Jiyū da.,I'm free / It's freedom.,自由 = freedom/free,だ = casual copula,Attack on Titan-associated theme vocabulary. だ is the casual/plain counterpart of です after nouns and na-adjectives.,Anime
+2026-10-07,家族を守る。,かぞく を まもる,Kazoku o mamoru.,I'll protect my family.,家族 = family; 守る = protect,を + plain verb,Anime-common and everyday-understandable Japanese. The subject is omitted; context tells us who will protect the family.,Anime
