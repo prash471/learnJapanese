@@ -14,7 +14,16 @@ body.card-mode .cardNav{position:fixed;left:0;right:0;bottom:0;margin:0;padding:
 body.card-mode .navBtn{flex:1;max-width:150px;min-height:52px;font-size:1.5rem}
 body.card-mode .counter{min-width:76px}
 }
-</style></head><body>
+</style>
+<style>
+@media(max-width:650px){
+html,body.card-mode{margin:0!important;width:100%!important;max-width:100%!important}
+body.card-mode>h1,body.card-mode>.sub,body.card-mode>.controls,body.card-mode>.status{display:none!important}
+body.card-mode #list.cardMode{min-height:calc(100dvh - 128px)!important}
+}
+.build{position:fixed;right:5px;top:3px;font-size:9px;color:#94a3b8;z-index:99}
+body.card-mode .build{display:none}
+</style></head><body><span class="build">v3</span>
 <h1>日本語 Learning</h1><p class="sub">Everyday Japanese and memorable anime Japanese, with grammar breakdowns.</p>
 <nav class="tabs"><button class="tab active" data-tab="random">🎲 Random</button><button class="tab" data-tab="everyday">💬 Everyday</button><button class="tab" data-tab="anime">🍥 Anime</button></nav>
 <div class="modeRow"><span class="modeLabel">Mode</span><button class="modeBtn active" data-mode="normal">☰ Normal</button><button class="modeBtn" data-mode="card">▣ Card</button></div><div class="controls"><input id="search" placeholder="Search Japanese, romaji, English…"></div>
